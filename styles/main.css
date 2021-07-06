@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif !important;
+    background-color: #1e1e1e !important;
+}
+
+.nav-link {
+    color: #989898 !important;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    color: #989898 !important;
+}
+
+.tab-content {
+    background-color: #252525 !important;
+    padding: 25px !important;
+}
+
+.btn-danger {
+    background-color: transparent !important;
+    color: #dc3545 !important;
+    border-radius: 0 !important;
+}
+
+.form-control {
+    color: #ffffff !important
+}

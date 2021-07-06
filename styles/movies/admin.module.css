@@ -1,0 +1,23 @@
+.container {
+    margin : 20px auto !important;
+    padding: 20px !important;
+}
+.formControl {
+    background-color: #1e1e1e !important;
+    border: 0px solid transparent !important;
+    border-radius: 0px !important;
+    margin-bottom: 15px !important;
+    width: 100% !important;
+    min-height: 36px !important;
+    color: #fff !important;
+}
+.formLabel {
+    color: #9e9e9e;
+}
+.btn {
+    background-color: #ffbc00 !important;
+    color: #fff !important;
+    border-radius: 0px !important;
+    border-color: #ffbc00 !important;
+    margin-top: 25px !important;
+}

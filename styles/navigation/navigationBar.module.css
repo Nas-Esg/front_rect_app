@@ -1,0 +1,28 @@
+.navContainer {
+    padding: 0 !important;
+}
+.navbar {
+    background-color: #222222 !important;
+}
+.navLink {
+    color: #9e9e9e !important;
+    font-weight: bold;
+}
+.navLink:hover {
+    text-decoration:  underline !important;
+}
+.login {
+    border: 1px solid #ffcb00 !important;
+    color: #ffcb00 !important;
+    margin: 0 5px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.signup {
+    border: 1px solid #ffcb00 !important;
+    background-color: #ffcb00 !important;
+    color: #292929 !important;
+    margin: 0 5px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
